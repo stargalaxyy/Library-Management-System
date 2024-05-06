@@ -33,7 +33,7 @@ int main()
 
     d.eat();
     c.talk();
-    di.eat();
+  
 }
 
 
